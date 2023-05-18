@@ -1,5 +1,6 @@
-Technical Documentation
+<h1>Technical Documentation</h1>
 SearchBar Component
+<h3>Live:</h3>https://inspiring-cucurucho-06ad75.netlify.app/
 Description
 The SearchBar component is a React functional component that renders an input field for searching and fetching data from an API. It displays a search icon and provides real-time search functionality based on the user's input.
 
