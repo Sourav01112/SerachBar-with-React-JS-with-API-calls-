@@ -39,5 +39,3 @@ export const SearchBar = ({ setResults }) => {
     </div>
   );
 };
-
-//left at 12:56
